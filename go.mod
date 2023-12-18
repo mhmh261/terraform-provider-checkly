@@ -13,8 +13,6 @@ require (
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/oklog/run v1.1.0 // indirect
 	github.com/xanzy/ssh-agent v0.3.1 // indirect
-	golang.org/x/crypto v0.0.0-20220518034528-6f7dac969898 // indirect
+	golang.org/x/crypto v0.17.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f // indirect
-	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b // indirect
-	golang.org/x/tools v0.1.11-0.20220316014157-77aa08bb151a // indirect
 )
